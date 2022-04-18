@@ -133,7 +133,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
-
+- [UseCSV](https://layercode.com/usecsv) - Add data import to your app in minutes
+ 
 ## Database
 
 - [Airtable](https://airtable.com) - Database / Spreadsheet mashup
